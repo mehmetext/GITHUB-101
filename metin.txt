@@ -1,3 +1,5 @@
 İlk değişiklik!
 
 yeni-branch ile eklendi.
+
+Uzak sunucudan eklendi.
